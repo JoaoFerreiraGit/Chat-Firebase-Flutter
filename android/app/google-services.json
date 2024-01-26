@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856229221651",
+    "project_id": "chat-firebase-2f5e6",
+    "storage_bucket": "chat-firebase-2f5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856229221651:android:861adfad304c54d3a7f6e6",
+        "android_client_info": {
+          "package_name": "br.net.flux.chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856229221651-pnvih2j77gc3itah730636kupfa5j5js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw62eXgtmAKtsOOdfEE9XChHKgEH-G7eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856229221651-pnvih2j77gc3itah730636kupfa5j5js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
